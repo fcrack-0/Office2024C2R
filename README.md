@@ -1,14 +1,17 @@
 # Microsoft Office 2024 C2R Installation
 
+<img src="https://github.com/fcrack-0/Office2024C2R/assets/160543555/d20d38f9-7f43-4164-9c99-6f29c6f9812e" width="400">
+
 Microsoft Office 2013-2024 C2R Installation - Word/Excel/PowerPoint...  FAST - EASY - FREE
 ‎<br>
+
+The installation is fast and easy. Follow this step by step guide. 
 ‎<br>
+<br>
 <br>
 **DISABLE YOUR ANTIVIRUS!!!! OTHERWISE IT WILL NOT WORK!!!**<br>
 **DISABLE YOUR ANTIVIRUS!!!! OTHERWISE IT WILL NOT WORK!!!**
 <br>
-<br>
-The installation is fast and easy. Follow this step by step guide. 
 <br>
 <br>
 ### STEP 1 : Uninstall Office (Word, Excel...)
