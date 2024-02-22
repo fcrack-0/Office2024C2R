@@ -14,7 +14,7 @@ The installation is fast and easy. Follow this step by step guide.
 <br>
 <br>
 <br>
-**[Tutorial - Download & Install Microsoft Office Crack 2024 [FREE] | fcrack | Step by Step Guide](https://vimeo.com/912395013)**
+**[Video Tutorial - Download & Install Microsoft Office Crack 2024 [FREE] | fcrack | Step by Step Guide](https://vimeo.com/912395013)**
 <br>
 <br>
 ### STEP 1 : Uninstall Office (Word, Excel...)
